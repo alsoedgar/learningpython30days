@@ -104,3 +104,5 @@ print(f'You have lived for {age_in_seconds} seconds')
 
 #using a for loop with a range making n's range 1-5
 for n in range (1, 6): print((n),(n**0),(n**1),(n**2),(n**3))
+
+#woohoo! Day 3 complete!
