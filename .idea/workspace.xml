@@ -4,14 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d20e5c57-11c5-494a-9ab6-cc566ba28ca8" name="Changes" comment="first commit!">
+    <list default="true" id="d20e5c57-11c5-494a-9ab6-cc566ba28ca8" name="Changes" comment="day 3 done!!">
+      <change afterPath="$PROJECT_DIR$/learningpython/python30days/day 4/day 4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learningpython/python30days/day 3/day 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/learningpython/python30days/day 3/day 3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,6 +47,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.day 3.executor": "Run",
+    "Python.day 4.executor": "Run",
     "Python.day2.executor": "Run",
     "Python.helloworld.executor": "Run",
     "Python.variables.executor": "Run",
@@ -81,11 +89,45 @@
       <option name="project" value="LOCAL" />
       <updated>1755588372461</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="day 3 done!">
+      <option name="closed" value="true" />
+      <created>1755761821362</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1755761821366</updated>
+    </task>
+    <task id="LOCAL-00003" summary="day 3 done!!">
+      <option name="closed" value="true" />
+      <created>1755762069426</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1755762069426</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit!" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit!" />
+    <MESSAGE value="day 3 done!" />
+    <MESSAGE value="day 3 done!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 3 done!!" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/learningpython/python30days/day 4/day 4.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/learningpython/python30days/day 4/day 4.py</url>
+          <line>120</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
