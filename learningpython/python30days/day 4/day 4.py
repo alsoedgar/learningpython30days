@@ -179,8 +179,112 @@ print(challenge.startswith('Thirty')) #true because the string starts with 'Thir
 print(challenge.startswith('thirty')) #false because the string starts with 'Thirty'
 
 print('----------exercises-----------\n')
+string_1='thirty'
+string_2='days'
+string_3='of'
+string_4='python'
+concat_string= string_1+' '+string_2+' '+string_3+' '+string_4
+print(concat_string)
+
+newstring_1 = 'Coding'
+newstring_2 = 'For'
+newstring_3 = 'All'
+concat_string2= newstring_1+' '+ newstring_2+' '+ newstring_3
+print(concat_string2)
+
+Company = "Coding For All"
+print(Company)
+print(len(Company)) #prints the length of the string
+print(Company.upper())
+print(Company.lower())
+
+#Use capitalize(), title(), swapcase() methods to format the value of the string Coding For All.
+print(Company.capitalize())
+print(Company.title())
+print(Company.swapcase())
+
+print(Company.strip('Coding ')) #removes 'Coding ' from the beginning of the string
+
+print('true') if (Company.find('Coding')
+>=0) else print('false') #true because 'Coding' is in the string
+
+print(Company.replace('Coding', 'Python'))
+
+print(Company.split(' ')) #splits the string into a list of substrings based on spaces
+
+Companies = "Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon"
+print(Companies.split(', ')) #splits the companies at the comma
+
+print(Company[0]) #prints the first character in the string, char = c
+print(Company[10])
+
+acronym = 'Python For All'
+print(acronym[0] + acronym[7] + acronym[11]) #prints the acronym PFA
+
+print(Company.index('C')) #prints the index of the first occurrence of 'C'
+print(Company.rindex('F')) #prints the index of the last occurrence of 'F'
+
+sentence = 'You cannot end a sentence with because because because is a conjunction'
+
+print(sentence.find('because')) #finds the index of the first occurrence of 'because'))
+
+print(sentence.rindex('because')) #finds the index of the last occurrence of 'because'
+
+print(sentence.count('because')) #counts the number of occurences in the phrase
 
 
+start_index = (sentence.find('because'))
+end_index = start_index + len('because because because')
+print(sentence[start_index:end_index]) #prints out 'because because because' from the phrase
+print(sentence.replace('because because because ', '')) #removes 'because because because' from the phrase
 
+company = 'Coding For All'
+print(company.startswith('Coding'))
+print(company.endswith('Coding'))
 
+company_with_spaces= '  Coding For All'
 
+print(company_with_spaces.strip())
+
+#31. thirty_days_of_python = true
+test1 = '30DaysOfPython'
+test2 = 'thirty_days_of_python'
+
+print(test1.isidentifier())
+print(test2.isidentifier())
+
+#The following list contains the names of some of python libraries: ['Django', 'Flask', 'Bottle', 'Pyramid', 'Falcon']. Join the list with a hash with space string.
+
+python_libraries = ['Django', 'Flask', 'Bottle', 'Pyramid', 'Falcon']
+print('# '.join(python_libraries))
+
+#Use the new line escape sequence to separate the following sentences.
+
+print('I am enjoyinig this challenge\n'
+      'I just wonder what is next.\n')
+
+#Use a tab escape sequence to write the following lines.
+sentence=('Name\tAge\tCountry\tCity\n'
+      'Edgar\t17\tUSA\tChicago\n')
+
+print(sentence.expandtabs(15))
+
+radius = 10
+area = 3.14 * radius **2
+
+print('The area of a circle with a radius {} is {} meters square.'.format(radius, area))
+
+#Use the format() method to display the following:
+
+#different ways of formatting a string
+print('%d + %d = %d' % (8, 6, 8 + 6))
+num_1 = 8
+num_2 = 6
+print(f'{num_1} - {num_2} = {num_1 - num_2}')
+print('{} * {} = {}'.format(8, 6, 8 * 6))
+print('{0} / {1} = {2}'.format(8, 6, 8 / 6))
+print('{0} % {1} = {2}'.format(8, 6, 8 % 6))
+print('{0} // {1} = {2}'.format(8, 6, 8 // 6))
+print('{0} ** {1} = {2}'.format(8, 6, 8 ** 6))
+
+print('DAY 4 COMPLETE!!!!!!!!!')
