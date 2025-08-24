@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d20e5c57-11c5-494a-9ab6-cc566ba28ca8" name="Changes" comment="day 5 COMPLETE!">
-      <change afterPath="$PROJECT_DIR$/learningpython/python30days/day 6/day6.py" afterDir="false" />
+    <list default="true" id="d20e5c57-11c5-494a-9ab6-cc566ba28ca8" name="Changes" comment="day 6 COMPLETE!">
+      <change afterPath="$PROJECT_DIR$/learningpython/python30days/Day7/day7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,7 @@
     "Python.day2.executor": "Run",
     "Python.day5.executor": "Run",
     "Python.day6.executor": "Run",
+    "Python.day7.executor": "Run",
     "Python.helloworld.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -134,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755929122306</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="day 6 COMPLETE!">
+      <option name="closed" value="true" />
+      <created>1756013184043</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1756013184043</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -144,7 +153,8 @@
     <MESSAGE value="day 4 (1/2 done)!" />
     <MESSAGE value="day 4 COMPLETE!" />
     <MESSAGE value="day 5 COMPLETE!" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 5 COMPLETE!" />
+    <MESSAGE value="day 6 COMPLETE!" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 6 COMPLETE!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
