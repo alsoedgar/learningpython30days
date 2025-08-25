@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d20e5c57-11c5-494a-9ab6-cc566ba28ca8" name="Changes" comment="day 6 COMPLETE!">
-      <change afterPath="$PROJECT_DIR$/learningpython/python30days/Day7/day7.py" afterDir="false" />
+    <list default="true" id="d20e5c57-11c5-494a-9ab6-cc566ba28ca8" name="Changes" comment="day 7 COMPLETE!">
+      <change afterPath="$PROJECT_DIR$/learningpython/python30days/day 8/day8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learningpython/python30days/Day7/day7.py" beforeDir="false" afterPath="$PROJECT_DIR$/learningpython/python30days/Day 7/day7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learningpython/python30days/day 3/day 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/learningpython/python30days/day 3/day3 .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learningpython/python30days/day 4/day 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/learningpython/python30days/day 4/day4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +38,11 @@
     &quot;accountId&quot;: &quot;f977ade2-913c-4a12-86e8-0338af9a6b8f&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/learningpython/python30days/day 8/day8.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="AISelfReview" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -55,6 +61,7 @@
     "Python.day5.executor": "Run",
     "Python.day6.executor": "Run",
     "Python.day7.executor": "Run",
+    "Python.day8.executor": "Run",
     "Python.helloworld.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -143,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756013184043</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="day 7 COMPLETE!">
+      <option name="closed" value="true" />
+      <created>1756016768188</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1756016768188</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -154,18 +169,19 @@
     <MESSAGE value="day 4 COMPLETE!" />
     <MESSAGE value="day 5 COMPLETE!" />
     <MESSAGE value="day 6 COMPLETE!" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 6 COMPLETE!" />
+    <MESSAGE value="day 7 COMPLETE!" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 7 COMPLETE!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/learningpython/python30days/day 4/day 4.py</url>
+          <url>file://$PROJECT_DIR$/learningpython/python30days/day 4/day4.py</url>
           <line>59</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/learningpython/python30days/day 4/day 4.py</url>
+          <url>file://$PROJECT_DIR$/learningpython/python30days/day 4/day4.py</url>
           <line>120</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
