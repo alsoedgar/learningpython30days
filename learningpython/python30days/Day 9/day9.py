@@ -228,4 +228,4 @@ elif 'JavaScript' in person['skills'] and 'React' in person['skills']:
 else:
     print('Unknown title')
 
-print('\n****************** DAY 9 COMPLETE!!!!!! ***************\n')
+print('\n**************** DAY 9 COMPLETE!!!!!! **************\n')
