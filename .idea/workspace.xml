@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d20e5c57-11c5-494a-9ab6-cc566ba28ca8" name="Changes" comment="day 8 COMPLETE!">
-      <change afterPath="$PROJECT_DIR$/learningpython/python30days/Day 9/day9.py" afterDir="false" />
+    <list default="true" id="d20e5c57-11c5-494a-9ab6-cc566ba28ca8" name="Changes" comment="day 9 COMPLETE!">
+      <change afterPath="$PROJECT_DIR$/learningpython/python30days/day 10/day10.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.day 3.executor": "Run",
     "Python.day 4.executor": "Run",
+    "Python.day10.executor": "Run",
     "Python.day2.executor": "Run",
     "Python.day5.executor": "Run",
     "Python.day6.executor": "Run",
@@ -164,7 +165,23 @@
       <option name="project" value="LOCAL" />
       <updated>1756096449569</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="day 9 COMPLETE!">
+      <option name="closed" value="true" />
+      <created>1756788659110</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1756788659110</updated>
+    </task>
+    <task id="LOCAL-00011" summary="day 9 COMPLETE!">
+      <option name="closed" value="true" />
+      <created>1756788688298</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1756788688298</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -177,7 +194,8 @@
     <MESSAGE value="day 6 COMPLETE!" />
     <MESSAGE value="day 7 COMPLETE!" />
     <MESSAGE value="day 8 COMPLETE!" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 8 COMPLETE!" />
+    <MESSAGE value="day 9 COMPLETE!" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 9 COMPLETE!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
